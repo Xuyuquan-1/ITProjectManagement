@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5485ec4-1db3-4a02-ae47-6ecdd5e32fe1" name="更改" comment="预约管理模块-徐煜荃" />
+    <list default="true" id="e5485ec4-1db3-4a02-ae47-6ecdd5e32fe1" name="更改" comment="预约管理模块-徐煜荃">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +27,7 @@
   }
 }</component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="d4adef6c-e697-4e03-b61b-eea3f306be85" />
+    <option name="defaultAccountId" value="a853753f-2e90-4a0a-ab8c-478263b06857" />
   </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -46,7 +48,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "bookmanage",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "D:/ITgit/ITProjectManagement",
     "node.js.detected.package.eslint": "true",
@@ -96,6 +98,7 @@
       <updated>1779105624454</updated>
       <workItem from="1779105625749" duration="927000" />
       <workItem from="1779106632718" duration="211000" />
+      <workItem from="1779107282220" duration="666000" />
     </task>
     <task id="LOCAL-00001" summary="预约管理模块-徐煜荃">
       <option name="closed" value="true" />
